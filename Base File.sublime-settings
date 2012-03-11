@@ -1,0 +1,8 @@
+{
+    //"sublimelinter_fill_outlines": true,
+    "pep8_ignore":
+    [
+        "E501", "W293"
+    ]
+    
+}
